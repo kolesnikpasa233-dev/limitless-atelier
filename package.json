@@ -1,0 +1,17 @@
+{
+  "name": "limitless-atelier",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "cors": "^2.8.5",
+    "luxon": "^3.5.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
